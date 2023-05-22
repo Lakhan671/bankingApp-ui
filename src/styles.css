@@ -1,0 +1,26 @@
+body {
+  padding-top: 3.5rem;
+  font-family: "Roboto", sans-serif;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mr{
+  margin-top: 1rem !important;
+}
+
+
+.greenSK button {
+  background-color: blue;
+  color: white;
+  border: none;
+}
+.redSK {
+  background: #F44336 !important;
+  color: white;
+}
+.red-SK button {
+  background-color: #F44336;
+  color: white !important;
+  border: none;
+}
